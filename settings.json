@@ -1,1 +1,18 @@
-/home/null/.config/Code/User/settings.json
+{
+    "extensions.experimental.affinity": {
+        "asvetliakov.vscode-neovim": 1
+    },
+    "workbench.sideBar.location": "right",
+    "editor.cursorBlinking": "solid",
+    "editor.acceptSuggestionOnEnter": "off",
+    "editor.fontFamily": "JetBrainsMono Nerd Font",
+    "editor.fontLigatures": true,
+    "zenMode.centerLayout": false,
+    "zenMode.hideLineNumbers": false,
+    "zenMode.fullScreen": false,
+    "zenMode.hideActivityBar": true,
+    "zenMode.hideStatusBar": false,
+    "editor.minimap.enabled": false,
+    "breadcrumbs.enabled": false,
+    "luahelper.format.column_limit": 135,
+}
